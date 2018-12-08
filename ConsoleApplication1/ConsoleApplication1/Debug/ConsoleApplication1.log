@@ -1,3 +1,4 @@
 ﻿  ConsoleApplication1.cpp
-c:\users\soflt\desktop\12\consoleapplication1\consoleapplication1\consoleapplication1.cpp(9): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+c:\users\soflt\desktop\12\consoleapplication1\consoleapplication1\consoleapplication1.cpp(10): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+c:\users\soflt\desktop\12\consoleapplication1\consoleapplication1\consoleapplication1.cpp(9): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
   ConsoleApplication1.vcxproj -> C:\Users\soflt\Desktop\12\ConsoleApplication1\Debug\ConsoleApplication1.exe
